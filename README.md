@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Vue Material Dashboard](https://www.creative-tim.com/live/vue-material-dashboard) [![version][version-badge]][CHANGELOG] ![license][license-badge]
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/81/original/opt_md_vue_thumbnail.jpg?1525355237 "Vue Material Dashboard")
@@ -128,3 +129,6 @@ Instagram: <https://instagram.com/creativetimofficial>
 [CHANGELOG]: ./CHANGELOG.md
 [version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+=======
+# crmscotiabank
+>>>>>>> cdd9fdf6134f61dd920aadd9856d9ffbbdc95770
